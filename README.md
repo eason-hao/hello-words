@@ -1,5 +1,5 @@
 # hello-words
-My first Git project
+My first Git project: 
 an utility for words practice
 
 Created by:Hao Yichuan  /  Shanxi University
